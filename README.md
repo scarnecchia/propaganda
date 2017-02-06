@@ -1,5 +1,5 @@
 # 🙈 fakenews
-An in-progress collection of fake news outlets. Currently blocking 574 untrustworthy sites.
+An in-progress collection of fake news outlets. Currently blocking 569 untrustworthy sites.  I've forked this from [@marktron's fake news](https://github.com/marktron/fakenews) hosts lists. Mine differs from his in that I've started to remove satire sites, and I've added a handful of additional sites that are more pure propeganda and than "fake news" as well as additional hate sites.  Below is the rest of his readme:
 
 ## Purpose
 This is a small attempt to limit my exposure to sites that fall under the umbrella of “fake news.” It blocks sites that willfully and regularly spread clickbait, hoaxes, propaganda and disinformation.
